@@ -4,5 +4,5 @@ Based in Germany</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=jonasrdl alt=jonasrdl /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasrdl&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasrdl&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasrdl&layout=compact)](https://github.com/jonasrdl/github-readme-stats)
