@@ -6,4 +6,4 @@ Based in Germany</p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jonasrdl&show_icons=true&include_all_commits=true)](https://github.com/jonasrdl/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasrdl&layout=compact)](https://github.com/jonasrdl/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/[jonasrdl])
+![Profile views](https://gpvc.arturio.dev/jonasrdl)
