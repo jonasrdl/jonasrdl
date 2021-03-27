@@ -3,7 +3,7 @@
 Based in Germany</p>
 -->
 
-## Programming languages im interested in: Java, Javascript (CSS, HTML)
+## Programming languages im interested in: Java, Javascript, PHP, (CSS, HTML)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=jonasrdl alt=jonasrdl /> </p>
 
