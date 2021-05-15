@@ -2,8 +2,7 @@
 Based in Germany</p>
 -->
 
-## Programming languages im interested in: Java, Javascript, PHP, (CSS, HTML)
-## Favorite language: Javascript ❤️
+## Programming languages im interested in: Java, Javascript, C++, (CSS, HTML)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=jonasrdl alt=jonasrdl /> </p>
 
