@@ -5,4 +5,4 @@ Based in Germany</p>
 ## Programming languages im interested in: Java, Javascript, C, (CSS, HTML)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasrdl&show_icons=true&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasrdl&layout=compact)](https://github.com/jonasrdl/github-readme-stats) -->
+
