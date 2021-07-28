@@ -4,6 +4,8 @@ Based in Germany</p>
 
 ## Programming languages im interested in: Java, Javascript, C, (CSS, HTML)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jonasrdl)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasrdl&show_icons=true&theme=tokyonight)
 
 ### Things I've already worked with
