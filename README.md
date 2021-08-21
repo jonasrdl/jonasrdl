@@ -17,8 +17,6 @@ Based in Germany</p>
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/Raspbian.png" width="35px">
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/Ubuntu.png" width="35px">
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/VSCode.png" width="35px">
-<img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/Windows.png" width="35px">
-<img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/Wireshark.png" width="35px">
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/arch.png" width="35px">
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/gitlab.png" width="35px">
 <img src="https://github.com/jonasrdl/jonasrdl/blob/main/logos/node.png" width="35px">
